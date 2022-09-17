@@ -1,5 +1,5 @@
 # manage-employee-app
-Kiến thức áp dụng:
+learn: 
 + Spring bean, spring component annotation
 + ioc containers, di
 + @Autowired annotation
