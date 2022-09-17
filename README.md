@@ -1,5 +1,4 @@
 # manage-employee-app
-learn: 
 + Spring bean, spring component annotation
 + ioc containers, di
 + @Autowired annotation
